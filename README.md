@@ -1,4 +1,6 @@
-# JavaScript Conditionals
+##JavaScript Conditionals
+
+This repo contains my solution to the following exercise:
 
 1. Create a blank, valid HTML5 document.
 1. Create a JavaScript file
